@@ -21,7 +21,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MelvynFaith&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=MelvynFaith&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
 </div>
 
 ## Quantitative Toolkit
@@ -107,6 +107,14 @@
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MelvynFaith&bg_color=0d1117&color=38bdae&line=70a5fd&point=ffb86c&area=true&hide_border=true&custom_title=Research%20and%20Development%20Activity&area_color=bf91f3&title_color=70a5fd&radius=8"/>
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MelvynFaith/MelvynFaith/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MelvynFaith/MelvynFaith/output/github-contribution-grid-snake.svg">
+    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/MelvynFaith/MelvynFaith/output/github-contribution-grid-snake-dark.svg">
+  </picture>
 </div>
 
 <div align="center">
