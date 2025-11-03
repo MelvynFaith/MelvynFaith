@@ -110,14 +110,6 @@
 </div>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MelvynFaith/MelvynFaith/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MelvynFaith/MelvynFaith/output/github-contribution-grid-snake.svg">
-    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/MelvynFaith/MelvynFaith/output/github-contribution-grid-snake-dark.svg">
-  </picture>
-</div>
-
-<div align="center">
   
   [![GitHub](https://img.shields.io/badge/-GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117&color=21262d)](https://github.com/MelvynFaith)
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0077b5&labelColor=0d1117&color=21262d)](https://linkedin.com/in/melvynfaith)
