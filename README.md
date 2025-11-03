@@ -57,15 +57,15 @@
 </tr>
 <tr style="border: none;">
 <td align="center" width="90" style="border: none;">
-<img src="https://skillicons.dev/icons?i=pandas&theme=dark" width="40" height="40" alt="Pandas" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas" />
 <br><sub><b>Pandas</b></sub>
 </td>
 <td align="center" width="90" style="border: none;">
-<img src="https://skillicons.dev/icons?i=numpy&theme=dark" width="40" height="40" alt="NumPy" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40" alt="NumPy" />
 <br><sub><b>NumPy</b></sub>
 </td>
 <td align="center" width="90" style="border: none;">
-<img src="https://skillicons.dev/icons?i=jupyter&theme=dark" width="40" height="40" alt="Jupyter" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" height="40" alt="Jupyter" />
 <br><sub><b>Jupyter</b></sub>
 </td>
 <td align="center" width="90" style="border: none;">
@@ -73,12 +73,30 @@
 <br><sub><b>C++</b></sub>
 </td>
 <td align="center" width="90" style="border: none;">
+<img src="https://skillicons.dev/icons?i=go&theme=dark" width="40" height="40" alt="Go" />
+<br><sub><b>Go</b></sub>
+</td>
+<td align="center" width="90" style="border: none;">
+<img src="https://skillicons.dev/icons?i=postgresql&theme=dark" width="40" height="40" alt="SQL" />
+<br><sub><b>SQL</b></sub>
+</td>
+</tr>
+<tr style="border: none;">
+<td align="center" width="90" style="border: none;">
 <img src="https://skillicons.dev/icons?i=git&theme=dark" width="40" height="40" alt="Git" />
 <br><sub><b>Git</b></sub>
 </td>
 <td align="center" width="90" style="border: none;">
 <img src="https://skillicons.dev/icons?i=linux&theme=dark" width="40" height="40" alt="Linux" />
 <br><sub><b>Linux</b></sub>
+</td>
+<td align="center" width="90" style="border: none;">
+</td>
+<td align="center" width="90" style="border: none;">
+</td>
+<td align="center" width="90" style="border: none;">
+</td>
+<td align="center" width="90" style="border: none;">
 </td>
 </tr>
 </table>
@@ -88,7 +106,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MelvynFaith&bg_color=0d1117&color=38bdae&line=70a5fd&point=ffb86c&area=true&hide_border=true&custom_title=Research%20%26%20Development%20Activity&area_color=bf91f3&title_color=70a5fd&radius=8"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MelvynFaith&bg_color=0d1117&color=38bdae&line=70a5fd&point=ffb86c&area=true&hide_border=true&custom_title=Research%20and%20Development%20Activity&area_color=bf91f3&title_color=70a5fd&radius=8"/>
 </div>
 
 <div align="center">
