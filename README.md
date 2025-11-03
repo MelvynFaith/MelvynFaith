@@ -14,9 +14,9 @@
 
 <div align="center">
   
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=MelvynFaith&show_icons=true&theme=tokyo-night&hide_border=true&bg_color=0D1117&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&ring_color=70a5fd&fire_color=ffb86c&include_all_commits=true&count_private=true&custom_title=Quantitative%20Development"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=MelvynFaith&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&custom_title=Quantitative%20Development"/>
 
-<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=MelvynFaith&theme=tokyonight&hide_border=true&background=0D1117&stroke=2f3349&ring=70a5fd&fire=ffb86c&currStreakLabel=38bdae&sideLabels=38bdae"/>
+<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=MelvynFaith&theme=tokyonight&hide_border=true"/>
 
 </div>
 
